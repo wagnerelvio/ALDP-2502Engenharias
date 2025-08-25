@@ -3,7 +3,8 @@
 /*
 A função scanf() é usada para ler entrada formatada do dispositivo de entrada padrão (stdin). 
 A função scanf() faz parte da biblioteca padrão stdio.h e é usada para receber dados do usuário.
-O Stdin (STandarD INput) é o dispositivo de entrada padrão, ou seja, o meio pelo qual um programa recebe informações do usuário. Geralmente, o teclado é o dispositivo de entrada padrão. 
+O Stdin (STandarD INput) é o dispositivo de entrada padrão, ou seja, o meio pelo qual um programa
+recebe informações do usuário. Geralmente, o teclado é o dispositivo de entrada padrão. 
 */
 
 int main() {
