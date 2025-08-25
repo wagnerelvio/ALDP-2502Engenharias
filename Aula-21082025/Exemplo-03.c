@@ -1,7 +1,5 @@
 #include <stdio.h>  // Inclui a biblioteca padrao de entrada e saida
 #include <string.h> // Inclui a biblioteca para manipulacao de strings
- 
-
 
 int main() {
     int idade;                      // Declaracao da variavel inteira para a idade
